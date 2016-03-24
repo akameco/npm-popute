@@ -25,7 +25,7 @@ $ npm-popute install -S react react-dom
 Add this to ~/.bashrc or ~/.zshrc:
 
 ```
-alias npm=gifi
+alias npm=npm-popute
 ```
 
 ## License
