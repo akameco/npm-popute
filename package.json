@@ -1,6 +1,6 @@
 {
   "name": "npm-popute",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "watch 'ポプテピピック' while running npm install",
   "main": "index.js",
   "bin": {
@@ -45,8 +45,5 @@
   "bugs": {
     "url": "https://github.com/akameco/npm-popute/issues"
   },
-  "homepage": "https://github.com/akameco/npm-popute#readme",
-  "xo": {
-    "esnext": true
-  }
+  "homepage": "https://github.com/akameco/npm-popute#readme"
 }
