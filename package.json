@@ -1,0 +1,52 @@
+{
+  "name": "npm-popute",
+  "version": "0.0.1",
+  "description": "watch 'ポプテピピック' while running npm install",
+  "main": "index.js",
+  "bin": {
+    "npm-popute": "cli.js"
+  },
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "keywords": [
+    "ポプテピピック",
+    "npm",
+    "install",
+    "manga",
+    "comix",
+    "4コマ",
+    "funtastic",
+    "images"
+  ],
+  "author": "akameco <akameco.t@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "array-shuffle": "^1.0.0",
+    "each-series": "^1.0.0",
+    "execa": "^0.2.2",
+    "got": "^6.2.0",
+    "isarray": "^1.0.0",
+    "manga-life-win-4": "^0.0.2",
+    "popute": "^0.0.3",
+    "term-img": "^0.2.0"
+  },
+  "devDependencies": {
+    "ava": "^0.13.0",
+    "xo": "^0.13.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akameco/npm-popute.git"
+  },
+  "bugs": {
+    "url": "https://github.com/akameco/npm-popute/issues"
+  },
+  "homepage": "https://github.com/akameco/npm-popute#readme",
+  "xo": {
+    "esnext": true
+  }
+}
