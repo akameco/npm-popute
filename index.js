@@ -22,7 +22,7 @@ function displayImage() {
 		each(shuffle(urls), (url, i, done) => {
 			getImage(url).then(img => {
 				termImg(img, {height: '90%'});
-				setTimeout(done, 3000);
+				setTimeout(done, 5000);
 			});
 		});
 	});
