@@ -12,6 +12,10 @@
   "engines": {
     "node": ">=4"
   },
+  "files": [
+    "index.js",
+    "cli.js"
+  ],
   "keywords": [
     "ポプテピピック",
     "npm",
