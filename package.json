@@ -31,7 +31,7 @@
   "dependencies": {
     "array-shuffle": "^1.0.0",
     "each-series": "^1.0.0",
-    "execa": "^0.3.0",
+    "execa": "^0.4.0",
     "got": "^6.2.0",
     "isarray": "^1.0.0",
     "manga-life-win-4": "^0.0.2",
