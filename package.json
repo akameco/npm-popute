@@ -29,18 +29,18 @@
   "author": "akameco <akameco.t@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "array-shuffle": "^1.0.0",
+    "array-shuffle": "^1.0.1",
     "each-series": "^1.0.0",
-    "execa": "^0.2.2",
-    "got": "^6.2.0",
+    "execa": "^0.4.0",
+    "got": "^6.3.0",
     "isarray": "^1.0.0",
     "manga-life-win-4": "^0.0.2",
     "popute": "^0.0.3",
     "term-img": "^0.2.0"
   },
   "devDependencies": {
-    "ava": "^0.14.0",
-    "xo": "^0.14.0"
+    "ava": "^0.15.2",
+    "xo": "^0.16.0"
   },
   "repository": {
     "type": "git",
