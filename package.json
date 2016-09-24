@@ -33,7 +33,7 @@
     "each-series": "^1.0.0",
     "execa": "^0.4.0",
     "got": "^6.3.0",
-    "isarray": "^1.0.0",
+    "isarray": "^2.0.0",
     "manga-life-win-4": "^0.0.2",
     "popute": "^0.0.3",
     "term-img": "^0.2.0"
