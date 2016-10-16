@@ -1,6 +1,6 @@
 import test from 'ava';
 import m from '.';
 
-test(async t => {
+test(t => {
 	t.is(typeof m, 'function');
 });
