@@ -36,7 +36,7 @@
     "isarray": "^2.0.1",
     "manga-life-win-4": "^0.0.2",
     "popute": "^0.0.3",
-    "term-img": "^0.2.0"
+    "term-img": "^1.0.0"
   },
   "devDependencies": {
     "ava": "^0.17.0",
